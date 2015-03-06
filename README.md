@@ -1,21 +1,25 @@
 # esri-zlas-io-library
 
-A C++ library to read and write Esri zLAS files.
+A C++ library for reading and writing Esri Optimized LAS (*.zlas) format files.
 
 ## Features
-* Convert LAS files to zLAS
-* Convert zLAS files to LAS
-* Read zLAS into LAS format memory buffers
-* Read zLAS into structs
+
+* Convert zLAS files into LAS files. LAS is an ASPRS industry standard format for lidar data.
+* Convert LAS files into zLAS files.
+* Read zLAS into memory buffers as LAS formatted data (e.g., header record, point data records).
+* Read zLAS into structs for easy interpretation of LAS information.
 
 ## Instructions
 
-1. Use library in VS2008 or higher
+1. Retrieve zip file and decompress.
+2. Add to Visual Studio 2008 or higher project.
+3. All methods are commented with help in the EzLasAPIs.h file.
+4. An Examples.cpp containing instructional source code is included in the top level EzLasLib folder.
 
 ## Requirements
 
 * Visual Studio 2008 or higher
-* Windows XP SP3 or higher
+* Windows XP SP3 or higher (32-bit and 64-bit)
 
 ## Resources
 
