@@ -11,10 +11,9 @@ A C++ library for reading and writing Esri Optimized LAS (*.zlas) format files.
 
 ## Instructions
 
-1. Retrieve zip file and decompress.
-2. Add to Visual Studio 2008 or higher project.
-3. All methods are commented with help in the EzLasAPIs.h file.
-4. An Examples.cpp containing instructional source code is included in the top level EzLasLib folder.
+1. Add to Visual Studio 2008 or higher project.
+2. All methods are commented with help in the EzLasAPIs.h file.
+3. An Examples.cpp containing instructional source code is included in the top level EzLasLib folder.
 
 ## Requirements
 
