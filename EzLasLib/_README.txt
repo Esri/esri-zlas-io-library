@@ -8,7 +8,7 @@ Esri Optimized LAS (zLAS) I/O Library and API for Windows 32-bit and Windows 64-
 
 PURPOSE:
 
-  This is a C++ library for reading and writing Esri Optimized LAS (*.zlas) format files.
+  This is a C++ runtime library for reading and writing Esri Optimized LAS (*.zlas) format files.
 
 
 PRIMARY CAPABILITIES:

@@ -1,6 +1,6 @@
 # esri-zlas-io-library
 
-A C++ library for reading and writing Esri Optimized LAS (*.zlas) format files.
+A C++ runtime library that provides API access for reading and writing Esri Optimized LAS (*.zlas) format files as well as converting between zLAS and LAS.
 
 ## Features
 
